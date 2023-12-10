@@ -1,4 +1,4 @@
-Hi 👋 My name is <Okefolahan Olamide Israel/>
+Hi 👋 My name is Okefolahan Olamide Israel
 =============================================
 
 Web Developer and Mobile development in training
