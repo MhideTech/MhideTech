@@ -5,13 +5,13 @@ Web Developer and Mobile development in training
 ------------------------------------------------
 
 🚀 \*\*Okefolahan Olamide Israel | 17 🎓 | Software Engineering Student\*\* 
-Hey there! 👋 I'm Okefolahan Olamide Israel, a 17-year-old software engineering enthusiast on a mission to conquer the tech world. 🌐 Currently, I'm immersed in a 2-year software engineering program at Aptech Computer Education, Ota, Ogun State, Nigeria, aiming for an Advanced Diploma in Software Engineering.
+Hey there! 👋 I'm Okefolahan Olamide Israel, a 17-year-old software engineering enthusiast on a mission to conquer the tech world. 🌐 Currently, I'm immersed in a 2-year software engineering program at Aptech Computer Education, Ota, Ogun State, Nigeria, aiming for an Advanced Diploma in Software Engineering.<br/>
 👨‍💻 \*\*Tech Trailblazer:\*\* My journey in tech took a fascinating turn when I started serving as an intern after my first year, donning the hat of an IT instructor. 🚀 I've spent 7+ months sharing the tech love, teaching web development, and unraveling the mysteries of various programming languages.<br/>
-🌐 \*\*Development Journey:\*\* As a frontend web developer with a hunger for more, I'm diving into the world of backend magic with Node.js. 🌈 Simultaneously, I'm crafting my skills in mobile app development with Flutter. The journey is as thrilling as the destination! 
-🎶 \*\*Passions & Hobbies:\*\* Beyond the lines of code, you'll find me vibing to music, exploring new places, surfing the vast internet, and cheering for my favorite football teams. ⚽
-🔧 \*\*Interests & Values:\*\* I am passionate about technology, especially exploring the limitless realm of AI. 🤖 I believe in continuous learning, problem-solving, and the power of collaboration. 💡 My values include effective communication, leadership, and a proactive approach to every challenge.
-🤝 \*\*Community & Beyond:\*\* Actively involved in community initiatives, I strive to contribute positively to the tech landscape. 🌍 Being tech and digitally literate is not just a skill but a way of life for me.
-🚀 \*\*Future Goals:\*\* With a vision set on the future, I aspire to be a Fullstack web developer, mobile application maestro, and an AI/ML wizard. 🌌 My goal is to create solutions that tackle real-world problems, blending technology with human needs seamlessly. 
+🌐 \*\*Development Journey:\*\* As a frontend web developer with a hunger for more, I'm diving into the world of backend magic with Node.js. 🌈 Simultaneously, I'm crafting my skills in mobile app development with Flutter. The journey is as thrilling as the destination!<br/>
+🎶 \*\*Passions & Hobbies:\*\* Beyond the lines of code, you'll find me vibing to music, exploring new places, surfing the vast internet, and cheering for my favorite football teams. ⚽<br/>
+🔧 \*\*Interests & Values:\*\* I am passionate about technology, especially exploring the limitless realm of AI. 🤖 I believe in continuous learning, problem-solving, and the power of collaboration. 💡 My values include effective communication, leadership, and a proactive approach to every challenge.<br/>
+🤝 \*\*Community & Beyond:\*\* Actively involved in community initiatives, I strive to contribute positively to the tech landscape. 🌍 Being tech and digitally literate is not just a skill but a way of life for me.<br/>
+🚀 \*\*Future Goals:\*\* With a vision set on the future, I aspire to be a Fullstack web developer, mobile application maestro, and an AI/ML wizard. 🌌 My goal is to create solutions that tackle real-world problems, blending technology with human needs seamlessly. <br/>
 💡 \*\*Life Mantra:\*\* Every line of code I write, every problem I solve, brings me a step closer to making a difference. 🌟 Join me on this journey of exploration, innovation, and turning dreams into reality!
 
 *   🌍  I'm based in Lagos, Nigeria
