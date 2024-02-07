@@ -4,7 +4,7 @@ Hi 👋 My name is Okefolahan Olamide Israel
 Web Developer and Mobile development in training
 ------------------------------------------------
 
-🚀 \*\*Okefolahan Olamide Israel | 17 🎓 | Software Engineering Student\*\* 
+🚀 \*\*Okefolahan Olamide Israel | Software Engineering Student\*\* 
 Hey there! 👋 I'm Okefolahan Olamide Israel, a 17-year-old software engineering enthusiast on a mission to conquer the tech world. 🌐 Currently, I'm immersed in a 2-year software engineering program at Aptech Computer Education, Ota, Ogun State, Nigeria, aiming for an Advanced Diploma in Software Engineering.<br/>
 👨‍💻 \*\*Tech Trailblazer:\*\* My journey in tech took a fascinating turn when I started serving as an intern after my first year, donning the hat of an IT instructor. 🚀 I've spent 7+ months sharing the tech love, teaching web development, and unraveling the mysteries of various programming languages.<br/>
 🌐 \*\*Development Journey:\*\* As a frontend web developer with a hunger for more, I'm diving into the world of backend magic with Node.js. 🌈 Simultaneously, I'm crafting my skills in mobile app development with Flutter. The journey is as thrilling as the destination!<br/>
