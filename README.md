@@ -1,3 +1,5 @@
+![Banner](https://github.com/MhideTech/MhideTech/blob/main/Olamide.jpg)
+
 ## 👋 Hi, I'm Okefolahan Olamide Israel!
 
 I am a Software Engineer with over 2 years of experience building innovative solutions across web and mobile platforms. I specialize in full-stack development, mobile applications, and crafting efficient, scalable, and user-friendly software products.
@@ -33,8 +35,8 @@ I am a Software Engineer with over 2 years of experience building innovative sol
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MhideTech&show_icons=true&theme=radical)
 
 ### 🔗 Let's Connect
-- Portfolio: [Check out my portfolio](https://okefolahan-olamide.vercel.app/){:target="_blank"}
-- LinkedIn: [Olamide Okefolahan](https://linkedin.com/in/olamide-okefolahan){:target="_blank"}
-- Email: [okefolahanolamide2006@gmail.com](mailto:okefolahanolamide2006@gmail.com){:target="_blank"}
+- Portfolio: [Check out my portfolio](https://okefolahan-olamide.vercel.app/)
+- LinkedIn: [Olamide Okefolahan](https://linkedin.com/in/olamide-okefolahan)
+- Email: [okefolahanolamide2006@gmail.com](mailto:okefolahanolamide2006@gmail.com)
 
 💡 "Code isn't just code; it's a solution to real-world problems."
