@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ec026e09-fde4-4cb0-a636-be837bf6bf42)## 👋 Hi, I'm Okefolahan Olamide Israel!
+## 👋 Hi, I'm Okefolahan Olamide Israel!
 
 ### I am a Software Engineer with over 2 years of experience building innovative solutions across web and mobile platforms. I specialize in full-stack development, mobile applications, and crafting efficient, scalable, and user-friendly software products.
 =============================================
