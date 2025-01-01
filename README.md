@@ -8,11 +8,7 @@ I am a Software Engineer with over 2 years of experience building innovative sol
 - **Tools:** Git, MongoDB, PostgreSQL, Firebase, Tailwind CSS, Bootstrap
 - **Others:** RESTful APIs
 
-![React](https://img.shields.io/badge/React-18.0-blue?logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-16.0-green?logo=node.js)
-![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)
-
-### 🚀 Languages and Tools:
+### 🈸 Languages and Tools:
 <p>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
@@ -30,9 +26,15 @@ I am a Software Engineer with over 2 years of experience building innovative sol
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?&style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
+### 🔍 Profile Views:
+![Profile Views](https://komarev.com/ghpvc/?username=MhideTech&color=blue)
+
+### 📊 GitHub Stats:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MhideTech&show_icons=true&theme=radical)
+
 ### 🔗 Let's Connect
-- Portfolio: [MyPortfolio](https://okefolahan-olamide.vercel.app/)
-- LinkedIn: [Olamide Okefolahan](https://linkedin.com/in/olamide-okefolahan)
-- Email: [okefolahanolamide2006@gmail.com](mailto:okefolahanolamide2006@gmail.com)
+- Portfolio: [Check out my portfolio](https://okefolahan-olamide.vercel.app/){:target="_blank"}
+- LinkedIn: [Olamide Okefolahan](https://linkedin.com/in/olamide-okefolahan){:target="_blank"}
+- Email: [okefolahanolamide2006@gmail.com](mailto:okefolahanolamide2006@gmail.com){:target="_blank"}
 
 💡 "Code isn't just code; it's a solution to real-world problems."
